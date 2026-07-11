@@ -3,8 +3,7 @@
 ### (Structured per AI-ML-and-GEN-AI-Track Project Template)
 
 Source project: https://github.com/gagansrinivas1/Emotion-Detection-Learning-Support-Engine
-Template followed: https://github.com/gagansrinivas1/AI-ML-and-GEN-AI-Track-Project-Template
-
+Template followed: https://github.com/gagansrinivas1/Emotion-Detection-Learning-Support-Engine/blob/main/Emotion-Detection-Project-Template-Documentation.md
 ---
 
 ## 1. Brainstorming & Ideation
